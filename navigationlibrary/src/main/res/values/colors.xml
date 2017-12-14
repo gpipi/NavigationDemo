@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_navigation_background">#4d4949</color>
+    <color name="color_navigation_titleColor">#FFFFFF</color>
+    <color name="color_navigation_menuTextColor">#FFFFFF</color>
+
+</resources>
