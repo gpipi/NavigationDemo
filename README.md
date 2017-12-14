@@ -71,26 +71,14 @@
 </resources>
 
 
-#### 改变字体大小
-
-<resources>
-    <!-- Default screen margins, per the Android Design guidelines. -->
-
-    <dimen name="dimen_navigation_height">44dp</dimen>
-
-    <dimen name="dimen_navigation_menuTextSize">16sp</dimen>
-
-</resources>
-
 
 #### 改变默认背景的高度
 
 <resources>
-    <!-- Default screen margins, per the Android Design guidelines. -->
-    <dimen name="dimen_navigation_height">44dp</dimen>
-    <dimen name="dimen_navigation_titleSize">16sp</dimen>
 
-    <dimen name="dimen_navigation_menuTextSize">16sp</dimen>
+
+    <dimen name="dimen_navigation_height">44dp</dimen>
+
 
 </resources>
 
